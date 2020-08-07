@@ -2,7 +2,7 @@
 
 This repository hosts the Jupyter notebooks for CellOrganizer for Jupyter.
 
-## demos
+## demo_notebooks
 
 ### 2D
   A collection of 2D jupyter notebooks demos
